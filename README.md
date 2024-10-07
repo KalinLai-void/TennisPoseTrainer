@@ -28,6 +28,8 @@ This application is the sport tool, developing based on [OpenPose](https://githu
 
 ![](/demo/demo.gif)
 
+> In the "Program Screen", it has three view to shown. The left view is just keypoints output from OpenPose, the right view show last swing action trajectory, and the center view is to interact mainly.
+
 ## Pre-Requirements
 ### OpenPose
 This software is based on [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), a library that detects real-time keypoints for human body, hand, facial, and foot is developed by CMU.
