@@ -11,7 +11,9 @@ This application is the sport tool, developing based on [OpenPose](https://githu
 > This program was developed for [Sport Technology Experience Activity of "Sports i Taiwan 2.0 Project"](https://isports.sa.gov.tw/Apps/TIS/TIS02/TIS0201M_02V1.aspx?SYS=TIS&MENU_PRG_CD=1&ITEM_PRG_CD=2&PKNO=40332) in National Kaohsiung University of Science and Technology (NKUST).
 
 ### Field Settings
+
 ![](/demo/FeildSetting.JPG)
+
 - Camera: It is used to **capture user pose**, let the program to process. In the picture, it uses GoPro in our case.
 - Monitor: It show program screen, including UI, tips, and the result after processing. User can see he/she in monitor, then using according to the tips.
 > The distance of any devices/people need not to fixed, it just be used comfortably by user.
@@ -19,8 +21,11 @@ This application is the sport tool, developing based on [OpenPose](https://githu
 
 ### Demo video
 - Interact UI: See screen and through hand joints to selecting dominant hand (right/left hand), mode (forehand/backhand),and back to last UI.
+
 ![](/demo/demo_ui.gif)
+
 - Training Tennis Stroke Action: Ready to start (according to knee angle and hand joints), and swing to draw stroke trajectory and counting.
+
 ![](/demo/demo.gif)
 
 ## Pre-Requirements
